@@ -1,5 +1,3 @@
-# Tervetuloa loppuprojektiini
-
 Tämä sivu on tehty ohjelmistokehittämisen työkalut loppuprojektia varten
 
 ## Sivut
